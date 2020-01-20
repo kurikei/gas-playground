@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/kurikei/gas-playground/issues"
   },
-  "homepage": "https://github.com/kurikei/gas-playground#readme"
+  "homepage": "https://github.com/kurikei/gas-playground#readme",
+  "devDependencies": {
+    "@google/clasp": "2.3.0"
+  }
 }
